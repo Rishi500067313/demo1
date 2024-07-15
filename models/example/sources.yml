@@ -1,0 +1,9 @@
+
+sources: 
+  - name: test
+    database: "demo"
+    schema: "jaffle_shop"
+
+    tables: 
+      - name: Customers
+      - name: Orders
